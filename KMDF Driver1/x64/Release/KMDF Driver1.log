@@ -1,0 +1,19 @@
+﻿  Building 'KMDF Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  main.c
+E:\Upan\vscode\KMDF Driver1\KMDF Driver1\main.h(29,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+E:\Upan\vscode\KMDF Driver1\KMDF Driver1\main.h(30,6): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+E:\Upan\vscode\KMDF Driver1\KMDF Driver1\main.c(453,79): warning C4133: “<”: 从“UCHAR *”到“PVOID”的类型不兼容
+E:\Upan\vscode\KMDF Driver1\KMDF Driver1\main.c(474,54): warning C4100: “DriverObject”: 未引用的形参
+E:\Upan\vscode\KMDF Driver1\KMDF Driver1\main.c(486,8): warning C4189: “UsingDeviceExt”: 局部变量已初始化但不引用
+E:\Upan\vscode\KMDF Driver1\KMDF Driver1\main.c(479,17): warning C4189: “pTargetDeviceObject”: 局部变量已初始化但不引用
+  qd.c
+  过保护读写.c
+  进程保护.c
+  正在生成代码...
+  KMDF Driver1.vcxproj -> E:\Upan\vscode\KMDF Driver1\x64\Release\KMDFDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Upan\vscode\KMDF Driver1\x64\Release\KMDFDriver1.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  
